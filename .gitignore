@@ -1,0 +1,15 @@
+**/nbproject/private/
+**/nbproject/Makefile-*.mk
+**/nbproject/Package-*.bash
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+.atl/
+db.properties*.class
+*.jar
+*.war
+*.ear
+.DS_Store
+Thumbs.db
